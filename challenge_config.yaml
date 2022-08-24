@@ -200,6 +200,184 @@ challenge_phases:
         is_visible: True
       - name: meval_tv_param_config
         is_visible: True
+      - name: tgsymp1
+        is_visible: True
+      - name: tgsymp2
+        is_visible: True
+      - name: tgsymp3
+        is_visible: True
+      - name: tgsymp4
+        is_visible: True
+      - name: tgsymp5
+        is_visible: True
+      - name: tgsymp6
+        is_visible: True
+      - name: tgsymp7
+        is_visible: True
+      - name: tgsymp8
+        is_visible: True
+      - name: tgsymp9
+        is_visible: True
+      - name: tgsymp10
+        is_visible: True
+      - name: tgsymp11
+        is_visible: True
+      - name: tgsymp12
+        is_visible: True
+      - name: tgsymp13
+        is_visible: True
+      - name: tgsymp14
+        is_visible: True
+      - name: tgsymp15
+        is_visible: True
+      - name: tgsymp16
+        is_visible: True
+      - name: tgsymp17
+        is_visible: True
+      - name: tgsymp18
+        is_visible: False
+      - name: tgsymp19
+        is_visible: True
+      - name: tgsymp20
+        is_visible: True
+      - name: tgsymp21
+        is_visible: True
+      - name: tgsymp22
+        is_visible: True
+      - name: tgsymp23
+        is_visible: True
+      - name: tgsymp24
+        is_visible: True
+      - name: tgsymp25
+        is_visible: True
+      - name: tgsymp26
+        is_visible: True
+      - name: tgsymp27
+        is_visible: True
+      - name: tgsymp28
+        is_visible: True
+      - name: tgsymp29
+        is_visible: True
+      - name: tgsymp30
+        is_visible: True
+      - name: tgsymp31
+        is_visible: True
+      - name: tgsymp32
+        is_visible: True
+      - name: tgsymp33
+        is_visible: True
+      - name: tgsymp34
+        is_visible: True
+      - name: tgsymp35
+        is_visible: True
+      - name: tgsymp36
+        is_visible: True
+      - name: tgsymp37
+        is_visible: True
+      - name: tgsymp38
+        is_visible: True
+      - name: tgsymp39
+        is_visible: True
+      - name: tgsymp40
+        is_visible: True
+      - name: tgsymp41
+        is_visible: True
+      - name: tgsymp42
+        is_visible: True
+      - name: tgsymp43
+        is_visible: True
+      - name: tgsymp44
+        is_visible: True
+      - name: tgsymp45
+        is_visible: True
+      - name: tgsymp46
+        is_visible: True
+      - name: tgsymp47
+        is_visible: True
+      - name: tgsymp48
+        is_visible: True
+      - name: tgsymp49
+        is_visible: True
+      - name: tgsymp50
+        is_visible: True
+      - name: tgsymp51
+        is_visible: True
+      - name: tgsymp52
+        is_visible: True
+      - name: tgsymp53
+        is_visible: True
+      - name: tgsymp54
+        is_visible: True
+      - name: tgsymp55
+        is_visible: True
+      - name: tgsymp56
+        is_visible: True
+      - name: tgsymp57
+        is_visible: True
+      - name: tgsymp58
+        is_visible: True
+      - name: tgsymp59
+        is_visible: True
+      - name: tgsymp60
+        is_visible: True
+      - name: tgsymp61
+        is_visible: True
+      - name: tgsymp62
+        is_visible: True
+      - name: tgsymp63
+        is_visible: True
+      - name: tgsymp64
+        is_visible: True
+      - name: tgsymp65
+        is_visible: True
+      - name: tgsymp66
+        is_visible: True
+      - name: tgsymp67
+        is_visible: True
+      - name: tgsymp68
+        is_visible: True
+      - name: tgsymp69
+        is_visible: True
+      - name: tgsymp70
+        is_visible: True
+      - name: tgsymp71
+        is_visible: True
+      - name: tgsymp72
+        is_visible: True
+      - name: tgsymp73
+        is_visible: True
+      - name: tgsymp74
+        is_visible: True
+      - name: tgsymp75
+        is_visible: True
+      - name: tgsymp76
+        is_visible: True
+      - name: tgsymp77
+        is_visible: True
+      - name: tgsymp78
+        is_visible: True
+      - name: tgsymp79
+        is_visible: True
+      - name: tgsymp80
+        is_visible: True
+      - name: tgsymp81
+        is_visible: True
+      - name: tgsymp82
+        is_visible: True
+      - name: tgsymp83
+        is_visible: True
+      - name: tgsymp84
+        is_visible: True
+      - name: tgsymp85
+        is_visible: True
+      - name: tgsymp86
+        is_visible: True
+      - name: tgsymp87
+        is_visible: True
+      - name: tgsymp88
+        is_visible: True
+      - name: tgsymp89
+        is_visible: True
     submission_meta_attributes:
       - name: TextAttribute
         description: Sample
@@ -385,6 +563,184 @@ challenge_phases:
       - name: mt_tv_out
         is_visible: True
       - name: meval_tv_param_config
+        is_visible: True
+      - name: tgsymp1
+        is_visible: True
+      - name: tgsymp2
+        is_visible: True
+      - name: tgsymp3
+        is_visible: True
+      - name: tgsymp4
+        is_visible: True
+      - name: tgsymp5
+        is_visible: True
+      - name: tgsymp6
+        is_visible: True
+      - name: tgsymp7
+        is_visible: True
+      - name: tgsymp8
+        is_visible: True
+      - name: tgsymp9
+        is_visible: True
+      - name: tgsymp10
+        is_visible: True
+      - name: tgsymp11
+        is_visible: True
+      - name: tgsymp12
+        is_visible: True
+      - name: tgsymp13
+        is_visible: True
+      - name: tgsymp14
+        is_visible: True
+      - name: tgsymp15
+        is_visible: True
+      - name: tgsymp16
+        is_visible: True
+      - name: tgsymp17
+        is_visible: True
+      - name: tgsymp18
+        is_visible: False
+      - name: tgsymp19
+        is_visible: True
+      - name: tgsymp20
+        is_visible: True
+      - name: tgsymp21
+        is_visible: True
+      - name: tgsymp22
+        is_visible: True
+      - name: tgsymp23
+        is_visible: True
+      - name: tgsymp24
+        is_visible: True
+      - name: tgsymp25
+        is_visible: True
+      - name: tgsymp26
+        is_visible: True
+      - name: tgsymp27
+        is_visible: True
+      - name: tgsymp28
+        is_visible: True
+      - name: tgsymp29
+        is_visible: True
+      - name: tgsymp30
+        is_visible: True
+      - name: tgsymp31
+        is_visible: True
+      - name: tgsymp32
+        is_visible: True
+      - name: tgsymp33
+        is_visible: True
+      - name: tgsymp34
+        is_visible: True
+      - name: tgsymp35
+        is_visible: True
+      - name: tgsymp36
+        is_visible: True
+      - name: tgsymp37
+        is_visible: True
+      - name: tgsymp38
+        is_visible: True
+      - name: tgsymp39
+        is_visible: True
+      - name: tgsymp40
+        is_visible: True
+      - name: tgsymp41
+        is_visible: True
+      - name: tgsymp42
+        is_visible: True
+      - name: tgsymp43
+        is_visible: True
+      - name: tgsymp44
+        is_visible: True
+      - name: tgsymp45
+        is_visible: True
+      - name: tgsymp46
+        is_visible: True
+      - name: tgsymp47
+        is_visible: True
+      - name: tgsymp48
+        is_visible: True
+      - name: tgsymp49
+        is_visible: True
+      - name: tgsymp50
+        is_visible: True
+      - name: tgsymp51
+        is_visible: True
+      - name: tgsymp52
+        is_visible: True
+      - name: tgsymp53
+        is_visible: True
+      - name: tgsymp54
+        is_visible: True
+      - name: tgsymp55
+        is_visible: True
+      - name: tgsymp56
+        is_visible: True
+      - name: tgsymp57
+        is_visible: True
+      - name: tgsymp58
+        is_visible: True
+      - name: tgsymp59
+        is_visible: True
+      - name: tgsymp60
+        is_visible: True
+      - name: tgsymp61
+        is_visible: True
+      - name: tgsymp62
+        is_visible: True
+      - name: tgsymp63
+        is_visible: True
+      - name: tgsymp64
+        is_visible: True
+      - name: tgsymp65
+        is_visible: True
+      - name: tgsymp66
+        is_visible: True
+      - name: tgsymp67
+        is_visible: True
+      - name: tgsymp68
+        is_visible: True
+      - name: tgsymp69
+        is_visible: True
+      - name: tgsymp70
+        is_visible: True
+      - name: tgsymp71
+        is_visible: True
+      - name: tgsymp72
+        is_visible: True
+      - name: tgsymp73
+        is_visible: True
+      - name: tgsymp74
+        is_visible: True
+      - name: tgsymp75
+        is_visible: True
+      - name: tgsymp76
+        is_visible: True
+      - name: tgsymp77
+        is_visible: True
+      - name: tgsymp78
+        is_visible: True
+      - name: tgsymp79
+        is_visible: True
+      - name: tgsymp80
+        is_visible: True
+      - name: tgsymp81
+        is_visible: True
+      - name: tgsymp82
+        is_visible: True
+      - name: tgsymp83
+        is_visible: True
+      - name: tgsymp84
+        is_visible: True
+      - name: tgsymp85
+        is_visible: True
+      - name: tgsymp86
+        is_visible: True
+      - name: tgsymp87
+        is_visible: True
+      - name: tgsymp88
+        is_visible: True
+      - name: tgsymp89
         is_visible: True
     submission_meta_attributes:
       - name: TextAttribute
